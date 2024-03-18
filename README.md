@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SophyO16
+- 👋 Hi, everyone, I’m @SophyO16
 - 👀 I’m interested in AIGC
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on AI projects
