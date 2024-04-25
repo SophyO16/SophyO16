@@ -2,7 +2,7 @@
 - 👀 I’m interested in AIGC
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me SophyRamodike950ATGMAIL
+- 📫 How to reach me SophyRamodike950ATGMAILDOTCOM
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Monero is real Bitcoin
 
